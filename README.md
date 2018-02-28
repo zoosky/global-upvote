@@ -2,6 +2,8 @@
 
 ![Mobile, tablet, and desktop screens of The Global Upvote](/screenshots.png?raw=true)
 
+Read the [freeCodeCamp](https://medium.freecodecamp.org/coding-a-newspaper-as-a-freakin-progressive-web-app-e456d4a2b9cd) article about this repository.
+
 > Top voted stories across the web, summarized and updated every sixty seconds.
 
 This was a two-week side project where I wanted to design and code a progressive web app that brought me up to speed with current events.

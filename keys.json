@@ -1,0 +1,7 @@
+{
+  "userAgent": "random-term",
+  "clientId": "FromYourRedditAPISettings",
+  "clientSecret": "FromYourRedditAPISettings",
+  "username": "YourRedditUsername",
+  "password": "YourRedditPassword"
+}
